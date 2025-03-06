@@ -1,9 +1,9 @@
 Privacy Policy for Listing Notifier
 
-Last Updated: [Today's Date]
+Last Updated: 3/6/25
 
 ## Introduction
-Listing Notifier ("we," "our," or "app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Listing Notifier app is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## Information We Collect
 We collect the following types of information:
@@ -37,4 +37,4 @@ You can:
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, please contact us at: [Your Email]
+If you have any questions about this Privacy Policy, please contact us at: listingnotifierfb@gmail.com
